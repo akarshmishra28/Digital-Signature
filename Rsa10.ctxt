@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rsa10
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=msg
+comment2.target=java.lang.String\ encode(java.lang.String)
+comment3.params=encodedMsg
+comment3.target=java.lang.String\ decode(java.lang.String)
+comment4.params=inputString\ exp\ n\ blockSize
+comment4.target=java.lang.String\ doRSA(java.lang.String,\ java.math.BigInteger,\ java.math.BigInteger,\ int)
+comment5.params=dataIn
+comment5.target=byte[]\ digestIt(byte[])
+comment6.params=data
+comment6.target=java.lang.String\ byteArrayToHexStr(byte[])
+comment7.params=msgIn\ block\ origMsgLen
+comment7.target=java.lang.String\ padTheMsg(java.lang.String,\ int,\ int)
+numComments=8
